@@ -1,0 +1,12 @@
+table{
+  border:1px solid #000;
+}
+
+button{
+  padding:0 13px;
+}
+
+#result{
+ border:1px solid #000;
+ background-color: #fff;
+}
